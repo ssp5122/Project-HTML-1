@@ -122,8 +122,6 @@
   <p>Affordable trips, beautiful places, and unforgettable experiences.</p>
 </section>
 
-
-<!-- Popular Destinations -->
 <section id="destinations" class="section">
   <h2>Popular Destinations</h2>
   <div class="cards">
@@ -148,9 +146,6 @@
 
   </div>
 </section>
-
-
-<!-- Hotels Section -->
 <section id="hotels" class="section">
   <h2>Top Hotels</h2>
   <div class="cards">
@@ -180,10 +175,7 @@
     </div>
 
   </div>
-</section>
-
-
-<!-- Tourist Attractions -->
+</sectio>
 <section id="tourist-spots" class="section">
   <h2>Tourist Attractions</h2>
   <div class="cards">
@@ -215,8 +207,6 @@
   </div>
 </section>
 
-
-<!-- Travel Packages -->
 <section id="packages" class="section">
   <h2>Travel Packages</h2>
   <div class="cards">
@@ -242,8 +232,6 @@
   </div>
 </section>
 
-
-<!-- Contact Section -->
 <section id="contact" class="section">
   <h2>Contact Us</h2>
   <div class="contact">
